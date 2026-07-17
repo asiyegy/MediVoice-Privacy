@@ -1,59 +1,76 @@
-**Privacy Policy**
+# Privacy Policy — MediVoice
 
-This privacy policy applies to the MediVoice app (hereby referred to as "Application") for mobile devices that was created by Asiye (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the MediVoice app ("Application") for mobile devices, created by Asiye ("Service Provider") as a freemium service. This service is intended for use "AS IS".
 
-**Information Collection and Use**
+## Summary
 
-The Application collects information when you download and use it. This information may include information such as
+MediVoice is a voice-based medical information tool for licensed healthcare professionals. To function, it sends the content of your voice sessions to third-party AI service providers (Google) for processing. This policy explains what is collected, how, why, and with whom it is shared.
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+## Information the Application Collects, and How
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+**1. Voice session data** — collected only while you actively use a session:
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+- Microphone audio while a session is active, streamed in real time
+- Transcripts of what you and the assistant say
+- Documents and photos you choose to share within a session
 
-**Third Party Access**
+**2. Automatically collected data:**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+- Device information (model, operating system version, language) and IP address
+- Usage data (screens visited, features used, session duration, time and date)
+- Crash and diagnostic data
+- Advertising-related identifiers, only if you grant App Tracking Transparency permission
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+**3. Purchase data:** subscription status and transaction identifiers. Card details never reach the Service Provider.
 
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Firebase Vertex AI](https://firebase.google.com/support/privacy)
-*   [RevenueCat](https://www.revenuecat.com/privacy)
+## How the Information Is Used
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+- To generate the assistant's spoken responses: voice audio, transcripts, and shared documents are processed by AI services solely for this purpose
+- To operate, maintain, and improve the Application (analytics, crash diagnostics)
+- To manage subscriptions and the free-trial entitlement
+- To measure advertising effectiveness (only with your App Tracking Transparency consent)
+- The Service Provider may use contact information you provide to send important notices
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+## Third Parties That Process Data
 
-**Opt-Out Rights**
+The Application shares data with the following processors, strictly to provide the service. Each provider is bound by data-protection terms that provide protection equal to or greater than this policy:
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+- [Google LLC](https://firebase.google.com/support/privacy) — Gemini AI models via Firebase AI Logic / Google Cloud process voice audio, conversation content, and shared documents to generate responses. Google also provides Firebase Analytics, Crashlytics, Remote Config, and Cloud Messaging for app operation.
+- [RevenueCat](https://www.revenuecat.com/privacy) — subscription management
+- Apple — payment processing through the App Store
+- [Meta Platforms](https://www.facebook.com/privacy/policy) — advertising measurement, only with App Tracking Transparency consent
 
-**Data Retention Policy**
+The Service Provider may also disclose information as required by law (for example, to comply with a subpoena), to protect rights or safety, to investigate fraud, or to respond to a government request.
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at asiygy@icloud.com and they will respond in a reasonable time.
+## Health-Related Information
 
-**Security**
+Content you speak or share during a session may include health-related information. It is processed solely to provide the service, is never sold, and is not used for advertising. Do not include names, patient numbers, dates of birth, or other direct identifiers, and do not share personal or patient data without the necessary authority and legal basis.
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+## Consent
 
-**Changes**
+Before the Application can be used, an in-app consent notice describes this processing and requires your explicit agreement. You may withdraw consent at any time by deleting your data in Settings and discontinuing use of the Application.
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+## Data Retention and Deletion
 
-This privacy policy is effective as of 2025-09-12
+- Voice audio is not retained by the Service Provider after processing
+- Transcripts and session summaries are stored only locally on your device; delete individual sessions or all data at any time in Settings
+- Automatically collected data is retained per the third-party providers' policies
+- To request deletion of any data, contact the Service Provider at asiygy@icloud.com
 
-**Your Consent**
+## Security
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+The Service Provider provides physical, electronic, and procedural safeguards to protect the information it processes and maintains. Data in transit is encrypted.
 
-**Contact Us**
+## Opt-Out Rights
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at asiygy@icloud.com.
+You can stop all collection of information by uninstalling the Application.
+
+## Changes
+
+This Privacy Policy may be updated from time to time. Changes are posted on this page; continued use constitutes acceptance.
+
+This privacy policy is effective as of 2026-07-17
+
+## Contact Us
+
+If you have any questions regarding privacy, contact the Service Provider at asiygy@icloud.com.
